@@ -1,4 +1,4 @@
-# English C1 Vocabulary for Anki
+# English C1 for Anki
 
 A comprehensive collection of English vocabulary and expressions designed for the Anki app. This deck is perfect for learners aiming to:
 
